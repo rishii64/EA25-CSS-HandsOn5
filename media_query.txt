@@ -1,0 +1,4 @@
+mobile:
+min- 250px & max-500px
+tablet
+min- 500px & max- 900px
